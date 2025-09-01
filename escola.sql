@@ -20,7 +20,7 @@ VALUES("Ana Claudia Cunha","ana.cscunha@senacsp.edu.br",'123'),
 ("Ruan Miranda","ruan@gmail.com","455"),
 
 --Selecionando todos os dados da tabela estudante (READ)
-SELECT * FROMS estudante;
+SELECT * FROM estudante;
 
 --Selecionando uma coluna na tabela estudante
 SELECT email FROM estudante
